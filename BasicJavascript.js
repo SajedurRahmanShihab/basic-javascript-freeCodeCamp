@@ -121,3 +121,12 @@ var myStr = "My name is "+ myName + " and I am well!";
 var myStr = "Learning to code is ";
 mystr += someAdjective;
  */
+
+/* Find the Length of a String
+ // Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Only change code below this line
+
+lastNameLength = lastName.length; */
