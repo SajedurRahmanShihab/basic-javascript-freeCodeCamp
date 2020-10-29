@@ -34,11 +34,11 @@ c = c + " String!"; */
 
 // Understanding Case Sensitivity in VariablesPassed
 // Variable declarations
-var studlyCapVar;
+/* var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
 
 // Variable assignments
 studlyCapVar = 10;
 properCamelCase = "A String";
-titleCaseOver = 9000;
+titleCaseOver = 9000; */
