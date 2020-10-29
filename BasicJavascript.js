@@ -181,3 +181,7 @@ var myAdverb = "quickly";
 // Only change code below this line
 var wordBlanks = myNoun+" "+myAdjective+" "+myVerb+" "+myAdverb; // Change this line
 // Only change code above this line */
+
+/* Store Multiple Values in one Variable using JavaScript Arrays
+// Only change code below this line
+var myArray = ["Shihab", 4]; */
