@@ -213,3 +213,18 @@ var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
 // Only change code below this line
 var myData = myArray[2][1];
  */
+
+/* Manipulate Arrays With push()
+ // Setup
+var myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+myArray.push(["dog",3]); */
+
+/* Manipulate Arrays With pop()
+// Setup
+var myArray = [["John", 23], ["cat", 2]];
+
+// Only change code below this line
+var removedFromMyArray = myArray.pop(myArray.length-1);
+ */
