@@ -17,3 +17,6 @@ var b;
 
 // Only change code below this line
 b = a; */
+
+// Initializing Variables with the Assignment Operator
+var a = 9;
