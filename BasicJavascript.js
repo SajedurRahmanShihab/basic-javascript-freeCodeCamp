@@ -228,3 +228,33 @@ var myArray = [["John", 23], ["cat", 2]];
 // Only change code below this line
 var removedFromMyArray = myArray.pop(myArray.length-1);
  */
+
+
+/* Manipulate Arrays With shift()
+ // Setup
+var myArray = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+var removedFromMyArray = myArray.shift(); */
+
+
+/* Manipulate Arrays With unshift()
+// Setup
+var myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+
+// Only change code below this line
+myArray.unshift(["Paul",35]); */
+
+
+/* Shopping List
+var myList = [["Chocolate Bar", 15],["Tomatos",10],["Apple",10],["Orange",20],["Lemon",40]];
+ */
+
+
+/* Write Reusable JavaScript with Functions
+function reusableFunction(){
+    console.log("Hi World");
+}
+
+reusableFunction(); */
