@@ -98,3 +98,6 @@ var myLastName = "Rahman"; */
 
 // Quoting Strings with Single Quotes
 /* var myStr = '<a href="http://www.example.com" target="_blank">Link</a>'; */
+
+// Escape Sequences in Strings
+/* var myStr ='FirstLine\n\t\\SecondLine\nThirdLine'; // Change this line */
