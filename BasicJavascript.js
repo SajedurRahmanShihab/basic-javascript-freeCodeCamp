@@ -162,5 +162,5 @@ var thirdLetterOfLastName = lastName[2]; // Change this line
 var lastName = "Lovelace";
 
 // Only change code below this line
-var lastLetterOfLastName = lastName[lastname.length-1]; // Change this line
+var lastLetterOfLastName = lastName[lastName.length-1]; // Change this line
  */
