@@ -88,3 +88,7 @@ var c = 33;
 a /= 12;
 b /= 4;
 c /= 11; */
+
+// Declare String Variables
+/* var myFirstName = "Sajedur";
+var myLastName = "Rahman"; */
