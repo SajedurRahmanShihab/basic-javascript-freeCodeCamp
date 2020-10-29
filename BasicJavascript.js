@@ -115,3 +115,9 @@ myStr += " This is the second sentence."; */
 /* var myName = "Sajedur";
 var myStr = "My name is "+ myName + " and I am well!";
  */
+
+// Appending Variables to Strings
+/* var someAdjective = "Hey";
+var myStr = "Learning to code is ";
+mystr += someAdjective;
+ */
