@@ -45,3 +45,6 @@ titleCaseOver = 9000; */
 
 // Add Two Numbers with JavaScript
 /* var sum = 10 + 10; */
+
+// Subtract One Number from Another with JavaScript
+/* var difference = 45 - 33; */
