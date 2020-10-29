@@ -164,3 +164,20 @@ var lastName = "Lovelace";
 // Only change code below this line
 var lastLetterOfLastName = lastName[lastName.length-1]; // Change this line
  */
+
+/* Use Bracket Notation to Find the Nth-to-Last Character in a String
+ // Setup
+var lastName = "Lovelace";
+
+// Only change code below this line
+var secondToLastLetterOfLastName = lastName[lastName.length-2]; // Change this line */
+
+/* Word Blanks
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+// Only change code below this line
+var wordBlanks = myNoun+" "+myAdjective+" "+myVerb+" "+myAdverb; // Change this line
+// Only change code above this line */
