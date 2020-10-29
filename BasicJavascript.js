@@ -101,3 +101,6 @@ var myLastName = "Rahman"; */
 
 // Escape Sequences in Strings
 /* var myStr ='FirstLine\n\t\\SecondLine\nThirdLine'; // Change this line */
+
+// Concatenating Strings with Plus Operator
+/* var myStr = "This is the start. " + "This is the end."; // Change this line */
