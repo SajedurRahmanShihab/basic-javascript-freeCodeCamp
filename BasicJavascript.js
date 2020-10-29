@@ -44,4 +44,4 @@ properCamelCase = "A String";
 titleCaseOver = 9000; */
 
 // Add Two Numbers with JavaScript
-var sum = 10 + 10;
+/* var sum = 10 + 10; */
