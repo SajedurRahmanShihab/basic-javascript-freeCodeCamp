@@ -190,3 +190,10 @@ var myArray = ["Shihab", 4]; */
 // Only change code below this line
 var myArray = [["Shihab",4]];
  */
+
+/* Access Array Data with Indexes
+ // Setup
+var myArray = [50,60,70];
+
+// Only change code below this line
+var myData = myArray[0]; */
