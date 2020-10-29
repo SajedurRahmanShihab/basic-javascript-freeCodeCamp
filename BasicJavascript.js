@@ -109,3 +109,9 @@ var myLastName = "Rahman"; */
 // Concatenating Strings with the Plus Equals Operator
 /* var myStr = "This is the first sentence.";
 myStr += " This is the second sentence."; */
+
+
+// Constructing Strings with Variables
+/* var myName = "Sajedur";
+var myStr = "My name is "+ myName + " and I am well!";
+ */
