@@ -185,3 +185,8 @@ var wordBlanks = myNoun+" "+myAdjective+" "+myVerb+" "+myAdverb; // Change this 
 /* Store Multiple Values in one Variable using JavaScript Arrays
 // Only change code below this line
 var myArray = ["Shihab", 4]; */
+
+/* Nest one Array within Another Array
+// Only change code below this line
+var myArray = [["Shihab",4]];
+ */
