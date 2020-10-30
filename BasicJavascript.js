@@ -908,3 +908,16 @@ switch(card)
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
  */
+
+
+/* Build JavaScript Objects
+var myDog = {
+    // Only change code below this line
+    "name" : "Sajedur",
+    "legs": 2,
+    "tails":"none",
+    "friends":"none"
+    
+    
+    // Only change code above this line
+    }; */
