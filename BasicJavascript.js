@@ -622,3 +622,78 @@ function testElseIf(val) {
   
   orderMyLogic(7);
    */
+
+
+/* Chaining If Else Statements
+function testSize(num) {
+  // Only change code below this line
+if(num<5)
+{
+  return "Tiny";
+}
+else if(num<10)
+{
+  return "Small";
+}
+else if(num<15)
+{
+  return "Medium";
+}
+else if(num<20)
+{
+  return "Large";
+}
+else if(num>=20)
+{
+  return "Huge";
+}
+  return "Change Me";
+  // Only change code above this line
+}
+  
+testSize(7); */
+
+
+/* Golf Code
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
+  // Only change code below this line
+if(strokes == 1)
+{
+  return names[0];
+}
+else if(strokes == 2)
+{
+  return names[1];
+}
+else if(strokes == 3)
+{
+  return names[2];
+}
+else if(strokes == 4)
+{
+  return names[3];
+}
+else if (par == 4 && strokes == 5)
+{
+  return names[4];
+}
+else if(strokes == 5 && par == 5)
+{
+  return names[3];
+}
+else if(strokes == 6)
+{
+  return names[5];
+}
+else if(strokes == 7)
+{
+  return names[6];
+}
+
+  return "Go Home!";
+  // Only change code above this line
+}
+
+golfScore(5, 4);
+ */
