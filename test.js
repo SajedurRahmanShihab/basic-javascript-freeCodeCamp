@@ -18,3 +18,6 @@ var myself = {
         }
     }
 }
+
+console.log("I got " + myself.result["SSC"] + " in my SSC examination");
+console.log("My father name is " + myself.Family.Parents["father"]);
