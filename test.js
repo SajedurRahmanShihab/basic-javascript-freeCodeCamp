@@ -5,6 +5,11 @@ var myself = {
         "HSC": "Bogura Cantonment Public School And College",
         "B.Sc": "Daffodil Internation University"
     },
+    "result": {
+        "SSC": "Golden GPA-5",
+        "HSC": "GPA 4.92",
+        "B.Sc": "3.51"
+    },
     "Family": {
         "Parents": {
             "father": "Mohammad Ali Shohel",
