@@ -551,19 +551,18 @@ function testLessThan(val) {
   testLogicalAnd(10); */
 
 
-
+/* 
 Comparisons with the Logical Or Operator
-/*   function testLogicalOr(val) {
+function testLogicalOr(val) {
     // Only change code below this line
   
-    if (val>10 || val<20) {
+    if (val<10 || val>20) {
       return "Outside";
     }
-  
-  
   
     // Only change code above this line
     return "Inside";
   }
   
-  testLogicalOr(15); */
+  testLogicalOr(15);
+   */
