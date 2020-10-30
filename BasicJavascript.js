@@ -995,3 +995,44 @@ var myDog = {
   
   // Only change code below this line
   myDog["bark"] = "woof"; */
+
+
+
+/*   Delete Properties from a JavaScript Object
+  // Setup
+var myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+  };
+  
+  // Only change code below this line
+  delete myDog.tails; */
+
+
+
+/*  Using Objects for Lookups
+// Setup
+function phoneticLookup(val) {
+    var result = "";
+  
+    // Only change code below this line
+  var lookup = {
+      "alpha": "Adams",
+      "bravo": "Boston",
+      "charlie": "Chicago",
+      "delta": "Denver",
+      "echo": "Easy",
+      "foxtrot": "Frank",
+       "": undefined
+  };
+  result = lookup[val];
+    // Only change code above this line
+    return result;
+  }
+  
+  phoneticLookup("charlie");
+  
+   */
