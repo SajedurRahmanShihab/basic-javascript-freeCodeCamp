@@ -1052,3 +1052,32 @@ function phoneticLookup(val) {
     }
     // Only change code above this line
   } */
+
+
+
+/*   Manipulating Complex Objects
+  var myMusic = [
+    {
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "release_year": 1973,
+      "formats": [
+        "CD",
+        "8T",
+        "LP"
+      ],
+      "gold": true,
+    },
+    // Add a record here
+  {
+      "artist": "Sajedur",
+      "title": "Piano",
+      "release_year": 1983,
+      "formats": [
+        "CD",
+        "8T",
+        "LP"
+      ]
+  }
+  ];
+   */
