@@ -104,7 +104,7 @@ const increment = (number, value = 1) => number + value;
 
 /* Use the Rest Parameter with Function Parameters
 const sum = (...args) => {
-    const args = [x, y, z];
+   
     return args.reduce((a, b) => a + b, 0);
   }
    */
