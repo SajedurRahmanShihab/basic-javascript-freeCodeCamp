@@ -82,3 +82,8 @@ function checkScope() {
     return MATH_CONSTANTS.PI;
   }
   const PI = freezeObj(); */
+
+
+
+/* Use Arrow Functions to Write Concise Anonymous Functions
+const magic = () => new Date(); */
