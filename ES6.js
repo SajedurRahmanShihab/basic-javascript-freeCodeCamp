@@ -1,0 +1,13 @@
+/* 
+Explore Differences Between the var and let Keywords
+let catName;
+let quote;
+function catTalk() {
+  
+
+  catName = "Oliver";
+  quote = catName + " says Meow!";
+
+}
+catTalk();
+ */
