@@ -12,7 +12,7 @@ function catTalk() {
 catTalk();
  */
 
-
+ 
 /* Compare Scopes of the var and let Keywords
 function checkScope() {
   
